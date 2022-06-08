@@ -1,4 +1,7 @@
 /* 样式的重置 */
+* {
+  box-sizing: border-box;
+}
 body,
 html,
 h1,
